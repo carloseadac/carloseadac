@@ -10,7 +10,7 @@
   - <img align='center' width='30' alt="GIF" src="./images/BoschLogo.png"/>   Software development trainee at Bosch 
   - <img align='center' width='30' alt="GIF" src="./images/Birthday.png"/>   18 years old
   - <img align='center' width='30' alt="GIF" src="./images/Study.png"/>   I'm a software engineering student :)
-  - <img align='center' width='30' alt="GIF" src="./images/Mail.png"/>   How to reach me: costa.carlos.dev@gmail.com
+  - <img align='center' width='30' alt="GIF" src="./images/Mail.png"/>   Site: <a href="https://costasoftwaresolutions.com">Costa Software Solutions</a>
 </div>
 
 ## 💬 Languages
