@@ -6,11 +6,9 @@
 <div align='left'>
   <h2><img align='center' width='35' alt="GIF" src="./images/Profile.png"/> General info:</h2>
 
-  - <img align='center' width='30' alt="GIF" src="./images/Game.png"/> Currently working in a <a href="https://github.com/AlexandreWN/ProjetoCampinas_Curitiba">project</a> for my company
   - <img align='center' width='30' alt="GIF" src="./images/BoschLogo.png"/>   Software development trainee at Bosch 
-  - <img align='center' width='30' alt="GIF" src="./images/Birthday.png"/>   18 years old
-  - <img align='center' width='30' alt="GIF" src="./images/Study.png"/>   I'm a software engineering student :)
-  - <img align='center' width='30' alt="GIF" src="./images/Mail.png"/>   Site: <a href="https://costasoftwaresolutions.com">Costa Software Solutions</a>
+  - <img align='center' width='30' alt="GIF" src="./images/Study.png"/>   I'm a software engineering and eletrical enguineering student 
+  - <img align='center' width='30' alt="GIF" src="./images/Mail.png"/>   Company: <a href="https://costasoftwaresolutions.com">Costa Software Solutions</a>
 </div>
 
 ## 💬 Languages
@@ -48,4 +46,4 @@
   <img  width="38" height="38" alingn="left" src="./images/raspberry.png" alt="Raspberry" />  
 </p>
 
-### This readme.md was heavily based on my friend [dalisone](https://github.com/dalisone)
+
