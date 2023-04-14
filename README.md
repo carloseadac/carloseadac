@@ -7,7 +7,7 @@
   <h2><img align='center' width='35' alt="GIF" src="./images/Profile.png"/> General info:</h2>
 
   - <img align='center' width='30' alt="GIF" src="./images/BoschLogo.png"/>   Software development trainee at Bosch 
-  - <img align='center' width='30' alt="GIF" src="./images/Study.png"/>   I'm a software engineering and eletrical enguineering student 
+  - <img align='center' width='30' alt="GIF" src="./images/Study.png"/>   I'm a software engineering and eletrical engineering student 
   - <img align='center' width='30' alt="GIF" src="./images/Mail.png"/>   Company: <a href="https://costasoftwaresolutions.com">Costa Software Solutions</a>
 </div>
 
